@@ -1,2 +1,1 @@
-hahajjajahajnqevvejei# Roll_Dice_App
-sjakkamawn
+# Roll_Dice_App
